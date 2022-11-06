@@ -10,7 +10,7 @@
 coverage](https://codecov.io/gh/qcchenxiaoman/mypackage/branch/main/graph/badge.svg)](https://app.codecov.io/gh/qcchenxiaoman/mypackage?branch=main)
 <!-- badges: end -->
 
-The goal of mypackage is to …
+The goal of mypackage is to practice write R package and publish in Github
 
 ## Installation
 
